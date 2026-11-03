@@ -2,11 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4776E6&height=220&section=header&text=Asma%20Akther&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Junior+Software+Developer;Full-Stack+Web+Developer;Aspiring+AI+%26+ML+Engineer;Computer+Vision+Enthusiast;Deep+Learning+Researcher" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Softare+Engineer;Junior+Software+Developer;Full-Stack+Web+Developer;Aspiring+AI+%26+ML+Engineer;Computer+Vision+Enthusiast;Deep+Learning+Researcher" />
 
 </div>
 
-## 🤝 Connect With Me
 <div align="center">
 <a href="https://github.com/asmaakther5058">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -25,12 +24,6 @@
 </a>
 
 </div>
-
-<h1 align="center">Hi 👋, I'm Asma Akther</h1>
-
-<h2 align="center">
-  Full-Stack Developer | Aspiring Software & AI/ML Engineer | Deep Learning Researcher
-</h2>
 
 <h3 align="center">
   Computer Science & Engineering Student at AIUB
