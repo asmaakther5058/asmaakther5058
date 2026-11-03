@@ -39,10 +39,10 @@
 
 ### 🛠️ Technical Skills
 
-##Programming Languages
+### Programming Languages
 - Python | Java | C# | C++ | JavaScript | PHP | SQL | Assembly
 
-##Web Development
+### Web Development
 - HTML5 | CSS3 | JavaScript | Responsive Web Design
 - PHP 8 | MVC Architecture | AJAX | JSON | DOM Manipulation
 - React.js | Next.js | Node.js | NestJS (Learning)
